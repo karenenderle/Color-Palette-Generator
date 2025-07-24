@@ -1,0 +1,26 @@
+body {
+    background-color: #ffffb3;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container {
+    padding: 40px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+#inset {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.input {
+    margin: 20px;
+}
